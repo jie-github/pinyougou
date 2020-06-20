@@ -3,5 +3,7 @@ public class main{
         System.out.println("你好");
         System.out.println("在mster分支做修改");
         System.out.println("在mster分支做修改");
+        System.out.println("在dev4分支做修改");
+        System.out.println("在dev4分支做修改");
     }
 }
